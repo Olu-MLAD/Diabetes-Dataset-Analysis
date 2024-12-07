@@ -1,2 +1,2 @@
-# didactic-winner
+# Diadetes Dataset
 Diadetes Dataset
